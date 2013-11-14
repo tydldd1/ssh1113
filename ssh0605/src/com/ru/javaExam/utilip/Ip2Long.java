@@ -1,4 +1,3 @@
-<<<<<<< HEAD:ssh0605/src/com/ru/javaExam/utilip/Ip2Long.java
 package com.ru.javaExam.utilip;
 /**
  *  
@@ -52,61 +51,6 @@ public class Ip2Long {
 
 	/**
 	* @param ip
-=======
-package com.ru.javaExam.utilip;
-/**
- *  
- * <p>
- * -----------------------------------------------------------------------------
- * <p>
- * 工程�?�?VPSer
- * <p>
- * 授权 : (C) Copyright topwalk Corporation 2006-2009
- * <p>
- * 公司 : 北京天行网安信息�?��有限责任公司
- * <p>
- * -----------------------------------------------------------------------------
- * <p>
- * 修改历史
- * <p>
- * 
- * <table width="432" border="1">
- * <tr>
- * <td>版本</td>
- * <td>时间</td>
- * <td>作�?</td>
- * <td>改变</td>
- * </tr>
- * <tr>
- * <td>2.0</td>
- * <td>Jan 28, 2010</td>
- * <td>tanglei</td>
- * <td>创建</td>
- * </tr>
- * </table>
- * <p>
- * <font color="#FF0000">注意: 本内容仅限于北京天行网安公司内部使用，禁止转�?/font>
- * <p>
- * 
- * @version 2.0
- * 
- * @author tanglei
- * @since JDK1.6
- */
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-public class Ip2Long {
-	//实现 ip�?int 
-
-
-	/**
-	* @author wenc
-	* 
-	*/
-
-	/**
-	* @param ip
->>>>>>> 8746882eb916b8be69942e0e22330d5564c04012:ssh0605/src/com/ru/javaExam/utilip/Ip2Long.java
 	* @return 有符号的整形数；当ip>128.0.0.0时为负数�?
 	* @throws UnknownHostException
 	* @author wenc
